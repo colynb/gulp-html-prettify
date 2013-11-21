@@ -1,0 +1,28 @@
+{
+  "name": "gulp-html-prettify",
+  "version": "0.0.0",
+  "description": "HTML Prettify Plugin for Gulp",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "repository": "https://github.com/colynb/gulp-html-prettify",
+  "author": "Colyn Brown <colyn.brown@gmail.com>",
+  "dependencies": {
+    "event-stream": "~3.0.16",
+    "clone": "~0.1.11",
+    "gulp-util": "0.0.1",
+    "html": "0.0.7"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1",
+    "gulp": "~2.4.1"
+  }
+}
