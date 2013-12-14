@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-prettify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "HTML Prettify Plugin for Gulp",
   "keywords": [
     "gulpplugin"
