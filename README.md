@@ -15,6 +15,9 @@
 </tr>
 </table>
 
+[![NPM](https://nodei.co/npm/gulp-html-prettify.png?stars&downloads)](https://npmjs.org/package/gulp-html-prettify)
+
+
 ## Usage
 
 Prettify HTML
