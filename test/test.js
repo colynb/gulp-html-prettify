@@ -19,7 +19,7 @@ describe('gulp-html-prettify compilation', function(){
     function expectStream(done, options){
       options = options || {};
       return es.map(function(file){
-        var expected = html.prettyPrint('<div><p>String</p></div>', options);        
+        var expected = html.prettyPrint('<div><p>String</p></div>', options);
         expect(expected).to.equal(String(file.contents));
         done();
       });

@@ -20,7 +20,7 @@
 
 ## Usage
 
-Prettify HTML
+[Gulp plugin](https://gulpjs.com/docs/en/getting-started/using-plugins/) to prettify HTML files with [html prettyprinter](https://github.com/maxogden/commonjs-html-prettyprinter)
 
 ```javascript
 var prettify = require('gulp-html-prettify');
