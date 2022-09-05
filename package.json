@@ -11,7 +11,7 @@
     "event-stream": "~3.0.16",
     "clone": "~0.1.11",
     "gulp-util": "0.0.1",
-    "html": "git://github.com/colynb/commonjs-html-prettyprinter.git"
+    "html": "https://github.com/colynb/commonjs-html-prettyprinter.git"
   },
   "main": "index.js",
   "engines": {
